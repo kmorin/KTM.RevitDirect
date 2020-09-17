@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>KTM.RevitDirect</id>
+    <version>1.0.0.0</version>
+    <title>KTM.RevitDirect</title>
+    <authors>KTM</authors>
+    <owners>KTM</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>BasicFileInfo For Revit</description>
+    <releaseNotes>Initial release package.</releaseNotes>
+    <copyright>Copyright 2020 KTM</copyright>
+    <tags>Autodesk, Revit</tags>
+    <dependencies>
+      <group targetFramework=".NET4.5.2"/>
+    </dependencies>
+  </metadata>
+</package>
