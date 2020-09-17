@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTM.RevitDirect", "KTM.RevitDirect.csproj", "{A6B4E8AB-42AD-4A14-8377-ED061E1185DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTM.RevitDirect.Tests", "KTM.RevitDirect.Tests\KTM.RevitDirect.Tests.csproj", "{286E47C7-CBBA-4CE0-A7EB-27263967088E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B4E8AB-42AD-4A14-8377-ED061E1185DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B4E8AB-42AD-4A14-8377-ED061E1185DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B4E8AB-42AD-4A14-8377-ED061E1185DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B4E8AB-42AD-4A14-8377-ED061E1185DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286E47C7-CBBA-4CE0-A7EB-27263967088E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286E47C7-CBBA-4CE0-A7EB-27263967088E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286E47C7-CBBA-4CE0-A7EB-27263967088E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286E47C7-CBBA-4CE0-A7EB-27263967088E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C51EB4-5480-4AF5-B7F1-DC728949D5DC}
+	EndGlobalSection
+EndGlobal
